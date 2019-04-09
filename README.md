@@ -3,8 +3,5 @@ You create a one-page web application that lets users draw a pixel image on a cu
 To begin, you'll be given starter code (including HTML and CSS) to build the application. You'll write JavaScript code that lets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
 
-{::nomarkdown}
+<a target="_blank" href="https://www.youtube.com/watch?v=Onv9nhPIBp0&t=1m2s">Link to YouTube</a>.
 
-<!-- HTML CODE-->
-
-{:/}
